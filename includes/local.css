@@ -21,3 +21,6 @@ html					    {}
 #promobox				    {width:180px; height:60px; overflow:auto; float:right; color:#333;}
 #promobox a			        {color:#464666;}
 #promobox a:hover			{color:#333;}
+
+#importantdates				{padding:5px;
+							 border: none;}
